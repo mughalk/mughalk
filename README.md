@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mughalk
-- 🌱 I’m currently learning ...django and angular!
-- 📫 How to reach me ... kashish.mughal@mail.utoronto.ca
+- 🌱 I’m currently learning React!
 
 <!---
 mughalk/mughalk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
